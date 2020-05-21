@@ -1,0 +1,130 @@
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 404 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 404 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 406 : call of function without prototype
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 478 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 484 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 487 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 488 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 489 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 490 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 493 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 494 : unexpected return value
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 503 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 505 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 506 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 507 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 508 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 511 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 512 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 519 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 520 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 522 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 523 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 528 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 529 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 531 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 532 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 537 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 538 : unexpected return value
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 558 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 559 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 560 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 561 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 564 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 565 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 567 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 568 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 578 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 579 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 583 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 584 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 587 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 588 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 593 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 594 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 598 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 599 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 603 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 604 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 610 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 611 : unexpected return value
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 622 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 638 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 639 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 642 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 643 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 646 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 647 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 655 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 656 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 658 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 659 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 664 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 665 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 667 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 668 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 673 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 674 : unexpected return value
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 692 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 693 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 696 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 697 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 702 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 717 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 718 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 719 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 720 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 733 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 734 : unexpected return value
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 757 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 758 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 759 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 761 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 762 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 763 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 764 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 775 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 776 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 779 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 780 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 788 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 789 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 792 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 793 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 796 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 809 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 810 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 811 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 812 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 828 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 829 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 830 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 831 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 836 : call of function without prototype
+Warning[2052] C:\Embedded Systems\Labs\EX2\main.c 837 : unexpected return value
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 848 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 850 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 851 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 852 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 853 : call of function without prototype
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 861 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 864 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 865 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 867 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 868 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 872 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 873 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 880 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 881 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 883 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 884 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 889 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 890 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\EX2\main.c 892 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\EX2\main.c 893 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\EX2\main.c 911 : call of function without prototype
+Warning[2065] C:\Embedded Systems\Labs\EX2\main.c 913 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\EX2\main.c 913 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\EX2\main.c 913 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\EX2\main.c 913 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Embedded Systems\Labs\EX2\main.c 913 : static function 'ProcessIO' not defined

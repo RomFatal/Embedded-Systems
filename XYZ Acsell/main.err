@@ -1,0 +1,70 @@
+Warning[2002] C:\Embedded Systems\Labs\XYZ Acsell\main.c 143 : unknown pragma 'interruptlsb'
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 222 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 223 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 224 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 225 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 226 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 227 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 228 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 229 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 230 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 231 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 232 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 233 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 234 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 289 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\XYZ Acsell\main.c 309 : call of function without prototype
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 332 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 332 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 333 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 337 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 337 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 338 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 339 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 339 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 340 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 346 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 346 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 347 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 348 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 348 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 349 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 356 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 356 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 357 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 362 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 362 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 363 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 364 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 364 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 365 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 371 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 371 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 372 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 373 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 373 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 374 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 380 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 380 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 381 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 385 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 385 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 386 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 387 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 387 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 388 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 394 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 394 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 395 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 396 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 396 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 397 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 404 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\XYZ Acsell\main.c 404 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\XYZ Acsell\main.c 405 : suspicious pointer conversion
+Warning[2068] C:\Embedded Systems\Labs\XYZ Acsell\main.c 412 : obsolete use of implicit 'int' detected
+Warning[2065] C:\Embedded Systems\Labs\XYZ Acsell\main.c 465 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\XYZ Acsell\main.c 465 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\XYZ Acsell\main.c 465 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\XYZ Acsell\main.c 465 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Embedded Systems\Labs\XYZ Acsell\main.c 465 : static function 'ProcessIO' not defined

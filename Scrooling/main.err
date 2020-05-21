@@ -1,0 +1,8 @@
+Warning[2054] C:\Embedded Systems\Labs\Scrooling\main.c 392 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\Scrooling\main.c 394 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\Scrooling\main.c 396 : suspicious pointer conversion
+Warning[2065] C:\Embedded Systems\Labs\Scrooling\main.c 398 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Scrooling\main.c 398 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Scrooling\main.c 398 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Scrooling\main.c 398 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Embedded Systems\Labs\Scrooling\main.c 398 : static function 'ProcessIO' not defined

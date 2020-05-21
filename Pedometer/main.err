@@ -1,0 +1,234 @@
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 316 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 317 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 614 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 619 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 626 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 626 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 627 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 628 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 628 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 629 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 633 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 633 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 634 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 639 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 639 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 641 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 641 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 643 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 643 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 644 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 648 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 649 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 653 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 654 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 658 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 659 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 660 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 667 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 668 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 671 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 672 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 683 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 684 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 685 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 686 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 687 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 688 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 692 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 693 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 694 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 698 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 703 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 704 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 710 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 711 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 721 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 722 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 726 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 727 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 738 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 739 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 740 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 741 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 742 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 743 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 747 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 748 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 749 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 753 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 757 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 758 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 763 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 764 : unexpected return value
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 773 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 774 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 775 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 776 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 777 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 778 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 785 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 786 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 790 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 791 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 869 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 870 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 871 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 873 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 874 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 875 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 878 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 879 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 883 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 884 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 943 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 944 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 945 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 947 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 948 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 949 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 952 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 953 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 957 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 958 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 961 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 961 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 962 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 964 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 964 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 965 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 969 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 969 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 970 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 975 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 975 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 977 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 977 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 979 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 979 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 980 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 992 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 993 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 996 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 997 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1000 : type qualifier mismatch in assignment
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1005 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1006 : unexpected return value
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1010 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1023 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1036 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1052 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1053 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1062 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1069 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1129 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1130 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1133 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1134 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1135 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1136 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1137 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1138 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1140 : type qualifier mismatch in assignment
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1145 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1146 : unexpected return value
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1150 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1161 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1176 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1177 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1184 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1190 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1202 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1203 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1204 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1205 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1207 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1208 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1209 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1211 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1212 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1213 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1215 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1217 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1252 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1253 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1254 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1255 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1263 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1264 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1265 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1266 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1267 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1268 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1270 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1271 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1272 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1273 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1274 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1275 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1276 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1277 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1278 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1279 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1280 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1281 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1282 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1283 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1284 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1285 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1286 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1287 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1291 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1292 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1298 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1299 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1302 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1304 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1304 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1305 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1309 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1311 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1312 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1323 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1324 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1325 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1326 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1327 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1330 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1339 : call of function without prototype
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1342 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1343 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1353 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1354 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1355 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1356 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1357 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1358 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1359 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1360 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1361 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1362 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1363 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1364 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1365 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1366 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1367 : suspicious pointer conversion
+Warning[2066] C:\Embedded\Labs\Pedometer\main.c 1368 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1369 : suspicious pointer conversion
+Warning[2054] C:\Embedded\Labs\Pedometer\main.c 1370 : suspicious pointer conversion
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1375 : call of function without prototype
+Warning[2052] C:\Embedded\Labs\Pedometer\main.c 1379 : unexpected return value
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1400 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1406 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1413 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1419 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1422 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1423 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1428 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1429 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1432 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1443 : call of function without prototype
+Warning[2058] C:\Embedded\Labs\Pedometer\main.c 1453 : call of function without prototype
+Warning[2065] C:\Embedded\Labs\Pedometer\main.c 1453 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Embedded\Labs\Pedometer\main.c 1453 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Embedded\Labs\Pedometer\main.c 1453 : static function 'ProcessIO' not defined

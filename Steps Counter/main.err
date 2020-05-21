@@ -1,0 +1,32 @@
+Warning[2002] C:\Embedded Systems\Labs\Steps\main.c 143 : unknown pragma 'interruptlsb'
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 239 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 240 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 241 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 242 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 244 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 245 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 246 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 247 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 249 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 250 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 251 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 252 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 323 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 324 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 325 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 326 : suspicious pointer conversion
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 345 : suspicious pointer conversion
+Warning[2058] C:\Embedded Systems\Labs\Steps\main.c 346 : call of function without prototype
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 350 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 351 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 356 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 357 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 359 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 360 : suspicious pointer conversion
+Warning[2066] C:\Embedded Systems\Labs\Steps\main.c 361 : type qualifier mismatch in assignment
+Warning[2054] C:\Embedded Systems\Labs\Steps\main.c 362 : suspicious pointer conversion
+Warning[2065] C:\Embedded Systems\Labs\Steps\main.c 371 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Steps\main.c 371 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Steps\main.c 371 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Embedded Systems\Labs\Steps\main.c 371 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Embedded Systems\Labs\Steps\main.c 371 : static function 'ProcessIO' not defined
